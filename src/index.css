@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+* {
+  /* 16px x 62.5 = 10px = 1rem */
+  /* font-size: 62.5%;  */
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+body {
+  height: 100vh;
+  font-size: 1.6rem;
+  font-family: Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+#root {
+  height: 100%;
+}
+
+.brand{
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 3px;
+    font-weight: bold;
+    /* font-size: 2rem; */
+}

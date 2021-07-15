@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+.brand{
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 3px;
+    /* font-size: 2rem; */
+}

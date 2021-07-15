@@ -1,0 +1,26 @@
+.circle {
+  font-size: 30px;
+  cursor: pointer;
+}
+.circle:hover {
+    color: red;
+}
+
+.img-small{
+  object-fit: cover;
+  width: 100px;
+  height: 100px;
+}
+
+.text{
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.thead-custom{
+  background: #f6f6f6;
+}
+
+.tr-custom{
+  border-bottom: 1px solid #EDF2F7;
+}

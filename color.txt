@@ -1,0 +1,4 @@
+Primary color: #f6f6f6
+Secondary color: #000000
+Third color: #FFFFFF
+Navbar font color: #868E96
